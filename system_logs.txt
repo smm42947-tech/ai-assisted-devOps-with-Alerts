@@ -1,0 +1,16 @@
+2024-03-25 10:00:01 INFO: System started
+2024-03-25 10:00:05 INFO: Database connection established
+2024-03-25 10:00:10 ERROR: Failed to connect to redis
+2024-03-25 10:00:15 WARNING: High memory usage detected
+2024-03-25 10:00:20 INFO: User login successful
+2024-03-25 10:00:25 ERROR: Payment service timeout
+2024-03-25 10:00:30 CRITICAL: Database connection lost
+2024-03-25 10:00:35 INFO: Backup started
+2024-03-25 10:00:40 ERROR: Disk space low
+2024-03-25 10:00:45 WARNING: CPU usage at 85%
+2024-03-25 10:00:50 INFO: Cache cleared
+2024-03-25 10:00:55 ERROR: Permission denied for /var/log/app
+2024-03-25 10:01:00 FATAL: Out of memory - service terminated
+2024-03-25 10:01:05 INFO: Attempting restart
+2024-03-25 10:01:10 ERROR: Connection refused by api.service.com
+2024-03-25 10:01:15 INFO: Restart successful

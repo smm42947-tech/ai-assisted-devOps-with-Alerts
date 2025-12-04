@@ -1,0 +1,43 @@
+{
+  "total": 16,
+  "errors": 5,
+  "warnings": 2,
+  "by_hour": {
+    "10": 16
+  },
+  "error_types": {
+    "error": 5,
+    "connection": 2,
+    "warning": 2,
+    "timeout": 1,
+    "permission": 1,
+    "critical": 1,
+    "memory": 1
+  },
+  "critical_count": 1,
+  "patterns": {},
+  "top_errors": [
+    [
+      "error",
+      5
+    ],
+    [
+      "connection",
+      2
+    ],
+    [
+      "warning",
+      2
+    ],
+    [
+      "timeout",
+      1
+    ],
+    [
+      "permission",
+      1
+    ]
+  ],
+  "timeline": [],
+  "error_rate": 31.25
+}
